@@ -1,7 +1,5 @@
 # Ingat Waktu
-Fitur-fitur yang akan segera ditambahkan <br/>
-	1. Sesuaikan jumlah suara gong dengan jam <br/>
-	2. Menu klik kanan pada tray icon
-	3. 
-	
-### Versi 1.0 rilis pada 9 januari 2015
+Fitur-fitur yang telah ditambahkan <br/>
+
+<br/>	
+#### Versi 1.0 akan segera dirilis pada Januari 2015
