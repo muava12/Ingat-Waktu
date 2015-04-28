@@ -1,5 +1,6 @@
 # Ingat Waktu
-Fitur-fitur yang telah ditambahkan <br/>
+Fitur-fitur yang telah ditambahkan
 
-<br/>	
-#### Versi 1.0 akan segera dirilis pada Januari 2015
+
+##### Released. You can download from [here](https://emanmoto.codeplex.com)
+
